@@ -12,13 +12,13 @@ Aplikasi Sistem Inventaris Barang berbasis web menggunakan PHP Native dan MySQL 
 ## Screenshot Aplikasi
 
 ### Halaman Home
-![Home](img/home.png)
+![Home](img/screenshot-home.png)
 
 ### Halaman Tambah Barang
-![Tambah](img/tambah.png)
+![Tambah](img/screenshot-tambah.png)
 
 ### Halaman Daftar Barang
-![Daftar](img/daftar.png)
+![Daftar](img/screenshot-daftar.png)
 
 ## Database
 Nama Database: db_inventaris
